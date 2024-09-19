@@ -22,4 +22,4 @@
 ## Awesome Books
 | Name | Link | 
 |:-----|:-----:|
-| [Introduction to Humanoid Robotics ] | [Download Link](https://web.icmc.usp.br/SCATUSU/Boletim_aquisicao/Boletim_Janeiro_2016/Capas_Junho_2016/Kajita_Introduction0001.pdf?
+| [**Introduction to Humanoid Robotics**]  | [Download Link](https://web.icmc.usp.br/SCATUSU/Boletim_aquisicao/Boletim_Janeiro_2016/Capas_Junho_2016/Kajita_Introduction0001.pdf?)
