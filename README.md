@@ -11,7 +11,7 @@
 # Awesome Papers
 
 ## Awesome Teleoperation
-|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**Teleoperation of Humanoid Robots: A Survey**](https://arxiv.org/pdf/2301.04317) <br> | arXiv | 2023-01-11 | [Github](https://humanoid-teleoperation.github.io/)  |  |
 
