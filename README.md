@@ -5,7 +5,7 @@
 
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Papers](#awesome-papers)
-  - [Multimodal Instruction Tuning](#Awesome Teleoperation)
+  - [Multimodal Instruction Tuning](#Awesome-Teleoperation)
 ---
 
 # Awesome Papers
