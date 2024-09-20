@@ -6,7 +6,8 @@
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Papers](#awesome-papers)
   - [Awesome Teleoperation](#Awesome-Teleoperation)
--[Awesome Reference Source](#awesome-reference-source)
+
+- [Awesome Reference Source](#awesome-reference-source)
   - [Awesome Books](#Awesome-books)
 ---
 
