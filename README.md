@@ -31,4 +31,4 @@
 ## Awesome Books
 | Name | Link | 
 |:-----|:-----:|
-|<br> **Introduction to Humanoid Robotics**<br>  | [Link](https://link.springer.com/book/10.1007/978-3-642-54536-8)
+|<br> **Introduction to Humanoid Robotics**<br>  | [Link](https://link.springer.com/book/10.1007/978-3-642-54536-8) |
