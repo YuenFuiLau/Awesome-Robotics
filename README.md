@@ -8,8 +8,9 @@
   - [Awesome Teleoperation](#Awesome-Teleoperation)
   - [Awesome Humanoid locomotion](#Awesome-Humanoid-locomotion)
 
-- [Awesome Reference Source](#awesome-reference-source)
+- [Awesome Reference](#awesome-reference-source)
   - [Awesome Books](#Awesome-books)
+  - [Awesome Source](#Awesome-source)
 ---
 
 # Awesome Papers
@@ -32,4 +33,8 @@
 | Name | Link | 
 |:-----|:-----:|
 |<br> **Introduction to Humanoid Robotics**<br>  | [Link](https://link.springer.com/book/10.1007/978-3-642-54536-8) |
+
+## Awesome Source
+| Name | Link | 
+|:-----|:-----:|
 |<be> [**Spinning Up in Deep RL (OpenAI)**](https://spinningup.openai.com/en/latest/) <br> | [Github](https://github.com/openai/spinningup/tree/master) |
