@@ -24,7 +24,8 @@
 ## Awesome Humanoid locomotion
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| <br> [**Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning**](https://www.roboticsproceedings.org/rss20/p058.pdf) <br> | RSS | 2024-07 | [Github](https://github.com/roboterax/humanoid-gym)  |  |
+| <br> [**Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning**](https://www.roboticsproceedings.org/rss20/p058.pdf) <br> | RSS | 2024-07 |  |  |
+| <br> [**Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer**](https://arxiv.org/pdf/2404.05695) <br> | arxiv | 2024-05-18 | [Code](https://github.com/roboterax/humanoid-gym) |  |
 
 ---
 # Awesome Reference Source
