@@ -32,4 +32,4 @@
 | Name | Link | 
 |:-----|:-----:|
 |<br> **Introduction to Humanoid Robotics**<br>  | [Link](https://link.springer.com/book/10.1007/978-3-642-54536-8) |
-|<br> **Spinning Up in Deep RL (OpenAI)**<br>  | [Link](https://link.springer.com/book/10.1007/978-3-642-54536-8)
+|<be> [**Spinning Up in Deep RL (OpenAI)**](https://spinningup.openai.com/en/latest/) <br> | [Github](https://github.com/openai/spinningup/tree/master) |
