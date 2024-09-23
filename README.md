@@ -7,6 +7,7 @@
 - [Awesome Papers](#awesome-papers)
   - [Awesome Teleoperation](#Awesome-Teleoperation)
   - [Awesome Humanoid locomotion](#Awesome-Humanoid-locomotion)
+  - [Awesome Touch](#Awesome-Touch)
 
 - [Awesome Reference](#awesome-reference-source)
   - [Awesome Books](#Awesome-books)
@@ -14,6 +15,11 @@
 ---
 
 # Awesome Papers
+
+## Awesome Touch
+|  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**[Learning Visuotactile Skills with Two Multifingered Hands](https://github.com/ToruOwO/hato]**](https://toruowo.github.io/hato/) <br> | arXiv | 2024-05-22 | [Code](https://github.com/ToruOwO/hato)  |  |
 
 ## Awesome Teleoperation
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
