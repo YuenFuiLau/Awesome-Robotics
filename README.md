@@ -5,6 +5,7 @@
 
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Papers](#awesome-papers)
+  - [Awesome Imitation Learning](#Awesome-Imitation-Learning)
   - [Awesome Teleoperation](#Awesome-Teleoperation)
   - [Awesome Humanoid locomotion](#Awesome-locomotion)
   - [Awesome Touch](#Awesome-Touch)
@@ -16,10 +17,13 @@
 
 # Awesome Papers
 
-## Awesome Touch
+## Awesome Imitation Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| <br> [**Learning Visuotactile Skills with Two Multifingered Hands**](https://toruowo.github.io/hato/) <br> | arXiv | 2024-05-22 | [Code](https://github.com/ToruOwO/hato)  |  |
+| <br> [**DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills**](https://xbpeng.github.io/projects/DeepMimic/index.html) <br> | ACM SIGGRAPH 2018 | 2024-05-22 | [Code](https://github.com/xbpeng/DeepMimic/tree/master)  |  |
+| <br> [**AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control**](https://xbpeng.github.io/projects/AMP/index.html) <br> | ACM SIGGRAPH 2021 | 2024-05-22 | [Code1](https://github.com/SZU-AdvTech-2023/055-AMP-Adversarial-Motion-Priors-for-Stylized-Physics-Based-Character-Control) [Code2](https://github.com/nv-tlabs/ASE/tree/main)   |  |
+| <br> [**ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters**](https://xbpeng.github.io/projects/ASE/index.html) <br> | ACM SIGGRAPH 2022 | 2024-05-22 | [Code](https://github.com/nv-tlabs/ASE/tree/main)  |  |
+
 
 ## Awesome Teleoperation
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
@@ -37,6 +41,11 @@
 | <br> [**Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning**](https://www.roboticsproceedings.org/rss20/p058.pdf) <br> | RSS | 2024-07 |  |  |
 | <br> [**Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer**](https://arxiv.org/pdf/2404.05695) <br> | arXiv | 2024-05-18 | [Code](https://github.com/roboterax/humanoid-gym) |  |
 | <br> [**Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing**](https://lecar-lab.github.io/dial-mpc/) <br> | arXiv | 2024-05-18 | [Code](https://github.com/LeCAR-Lab/dial-mpc) |  |
+
+## Awesome Touch
+|  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**Learning Visuotactile Skills with Two Multifingered Hands**](https://toruowo.github.io/hato/) <br> | arXiv | 2024-05-22 | [Code](https://github.com/ToruOwO/hato)  |  |
 
 ---
 # Awesome Reference Source
