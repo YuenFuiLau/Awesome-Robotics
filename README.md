@@ -42,6 +42,7 @@
 | <br> [**Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning**](https://www.roboticsproceedings.org/rss20/p058.pdf) <br> | RSS | 2024-07 |  |  |
 | <br> [**Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer**](https://arxiv.org/pdf/2404.05695) <br> | arXiv | 2024-05-18 | [Code](https://github.com/roboterax/humanoid-gym) |  |
 | <br> [**Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing**](https://lecar-lab.github.io/dial-mpc/) <br> | arXiv | 2024-05-18 | [Code](https://github.com/LeCAR-Lab/dial-mpc) |  |
+| <br> [**Expressive Whole-Body Control for Humanoid Robots**](https://expressive-humanoid.github.io/) <br> | RSS | 2024-03-06 | [Code](https://github.com/chengxuxin/expressive-humanoid/tree/main) |  |
 
 ## Awesome Touch
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
