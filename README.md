@@ -30,7 +30,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**Teleoperation of Humanoid Robots: A Survey**](https://arxiv.org/pdf/2301.04317) <br> | arXiv | 2023-01-11 | [Github.io](https://humanoid-teleoperation.github.io/)  |  |
 | <br> [**Interactive Hand Pose Estimation using a Stretch-Sensing Soft Glove**](https://dl.acm.org/doi/pdf/10.1145/3306346.3322957) <br> | ACM Trans | 2019-07-12 |   |  |
-| <br> [**Open-TeleVision: Teleoperation with Immersive Active Visual Feedback**](https://robot-tv.github.io/) <br> | arXiv | 2019-07-12 | [Code](https://github.com/OpenTeleVision/TeleVision)  |  |
+| <br> [**Open-TeleVision: Teleoperation with Immersive Active Visual Feedback**](https://robot-tv.github.io/) <br> | CoRL | 2019-07-12 | [Code](https://github.com/OpenTeleVision/TeleVision)  |  |
 | <br> [**AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation System**](https://yzqin.github.io/anyteleop/) <br> | RSS | 2024-05-16 | [Code](https://github.com/dexsuite/dex-retargeting)  |  |
 | <br> [**OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning**](https://omni.human2humanoid.com/) <br> | CoRL | 2024-01-13 | [Data](https://cmu.app.box.com/s/kmayzq5ax2rxvwn97s0hzz0aq5vws9io)  |  |
 | <br> [**Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation**](https://human2humanoid.com/resources/H2O_paper.pdf) <br> | IROS | 2024-01-13 | [Github.io](https://human2humanoid.com/)  |  |
