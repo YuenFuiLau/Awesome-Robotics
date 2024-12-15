@@ -34,6 +34,7 @@
 | <br> [**AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation System**](https://yzqin.github.io/anyteleop/) <br> | RSS | 2024-05-16 | [Code](https://github.com/dexsuite/dex-retargeting)  |  |
 | <br> [**OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning**](https://omni.human2humanoid.com/) <br> | CoRL | 2024-01-13 | [Data](https://cmu.app.box.com/s/kmayzq5ax2rxvwn97s0hzz0aq5vws9io)  |  |
 | <br> [**Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation**](https://human2humanoid.com/resources/H2O_paper.pdf) <br> | IROS | 2024-01-13 | [Github.io](https://human2humanoid.com/)  |  |
+| <br> [**HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots**](https://hover-versatile-humanoid.github.io/) <br> | arXiv | 2024-06-13 |  |  |
 
 ## Awesome Locomotion
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
