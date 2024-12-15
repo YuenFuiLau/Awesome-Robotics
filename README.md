@@ -23,6 +23,7 @@
 | <br> [**DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills**](https://xbpeng.github.io/projects/DeepMimic/index.html) <br> | ACM SIGGRAPH 2018 | 2024-05-22 | [Code](https://github.com/xbpeng/DeepMimic/tree/master)  |  |
 | <br> [**AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control**](https://xbpeng.github.io/projects/AMP/index.html) <br> | ACM SIGGRAPH 2021 | 2024-05-22 | [Code1](https://github.com/Alescontrela/AMP_for_hardware) [Code2](https://github.com/nv-tlabs/ASE/tree/main)   |  |
 | <br> [**ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters**](https://xbpeng.github.io/projects/ASE/index.html) <br> | ACM SIGGRAPH 2022 | 2024-05-22 | [Code](https://github.com/nv-tlabs/ASE/tree/main)  |  |
+| <br> [**OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation**](https://ut-austin-rpl.github.io/OKAMI/) <br> | CoRL 2024 | 2024-09 |  |  |
 
 
 ## Awesome Teleoperation
