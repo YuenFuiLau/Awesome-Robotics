@@ -32,6 +32,7 @@
 | <br> [**AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control**](https://xbpeng.github.io/projects/AMP/index.html) <br> | ACM SIGGRAPH 2021 | 2024-05-22 | [Code1](https://github.com/Alescontrela/AMP_for_hardware) [Code2](https://github.com/nv-tlabs/ASE/tree/main)   |  |
 | <br> [**ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters**](https://xbpeng.github.io/projects/ASE/index.html) <br> | ACM SIGGRAPH 2022 | 2024-05-22 | [Code](https://github.com/nv-tlabs/ASE/tree/main)  |  |
 | <br> [**PMP: Learning to Physically Interact with Environments using Part-wise Motion Priors**](https://github.com/jinseokbae/pmp) <br> | SIGGRAPH 2023 | 2023-05 |  |  |
+| <br> [**C·ASE: Learning Conditional Adversarial Skill Embeddings for Physics-based Characters**](https://frank-zy-dou.github.io/projects/CASE/index.html) <br> | SIGGRAPH ASIA 2023 | 2023-09 |  |  |****
 
 ## Awesome Teleoperation
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
