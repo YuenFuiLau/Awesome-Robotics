@@ -24,6 +24,7 @@
 | <br> [**Visual Whole-Body Control for Legged Loco-Manipulation**](https://wholebody-b1.github.io/) <br> | CoRL | 2024-11-02 | [Code](https://github.com/Ericonaldo/visual_wholebody)  |  |
 | <br> [**OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics**](https://ok-robot.github.io/) <br> | CoRL | 2024-02-29 | [Code](https://github.com/ok-robot/ok-robot)  |  |
 | <br> [**OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation**](https://ut-austin-rpl.github.io/OKAMI/) <br> | CoRL 2024 | 2024-09 |  |  |
+| <br> [**CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics**](https://gao-jiawei.com/Research/CooHOI/) <br> | NeurIPS 2024 | 2024-10 | [Code](https://gao-jiawei.com/Research/CooHOI/) |  |
 
 ## Awesome Animation
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
