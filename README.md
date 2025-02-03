@@ -5,6 +5,7 @@
 
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Papers](#awesome-papers)
+  - [Awesome Robot Learning](#Awesome-Robot-Learning)
   - [Awesome Imitation Learning](#Awesome-Imitation-Learning)
   - [Awesome Teleoperation](#Awesome-Teleoperation)
   - [Awesome Humanoid locomotion](#Awesome-locomotion)
@@ -16,6 +17,12 @@
 ---
 
 # Awesome Papers
+
+## Awesome Robot Learning
+|  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**Visual Whole-Body Control for Legged Loco-Manipulation**](https://wholebody-b1.github.io/) <br> | CoRL | 2024-11-02 | [Code](https://github.com/Ericonaldo/visual_wholebody)  |  |
+| <br> [**OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics**](https://ok-robot.github.io/) <br> | CoRL | 2024-02-29 | [Code](https://github.com/ok-robot/ok-robot)  |  |
 
 ## Awesome Imitation Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
