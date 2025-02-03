@@ -36,6 +36,7 @@
 | <br> [**PMP: Learning to Physically Interact with Environments using Part-wise Motion Priors**](https://github.com/jinseokbae/pmp) <br> | SIGGRAPH 2023 | 2023-05 |  |  |
 | <br> [**C·ASE: Learning Conditional Adversarial Skill Embeddings for Physics-based Characters**](https://frank-zy-dou.github.io/projects/CASE/index.html) <br> | SIGGRAPH ASIA 2023 | 2023-09 |  |  |
 | <br> [**Synthesizing Physical Character-Scene Interactions**](https://research.nvidia.com/publication/2023-08_synthesizing-physical-character-scene-interactions) <br> | SIGGRAPH 2023 | 2023-02 |  |  |
+| <br> [**MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting**](https://research.nvidia.com/labs/par/maskedmimic/) <br> | SIGGRAPH Asia 2024 | 2024-09 |  |  |
 
 
 ## Awesome Teleoperation
