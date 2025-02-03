@@ -10,6 +10,7 @@
   - [Awesome Teleoperation](#Awesome-Teleoperation)
   - [Awesome Humanoid locomotion](#Awesome-locomotion)
   - [Awesome Touch](#Awesome-Touch)
+  - [Awesome Data](#Awesome-Data)
 
 - [Awesome Reference](#awesome-reference-source)
   - [Awesome Books](#Awesome-books)
@@ -61,6 +62,11 @@
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**Learning Visuotactile Skills with Two Multifingered Hands**](https://toruowo.github.io/hato/) <br> | arXiv | 2024-05-22 | [Code](https://github.com/ToruOwO/hato)  |  |
+
+## Awesome Data
+|  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation**](https://humanoid-bench.github.io/) <br> | arXiv | 2024-06 | [Code](https://github.com/carlosferrazza/humanoid-bench)  |  |
 
 ---
 # Awesome Reference Source
