@@ -7,6 +7,7 @@
 - [Awesome Papers](#awesome-papers)
   - [Awesome Robot Learning](#Awesome-Robot-Learning)
   - [Awesome Animation](#Awesome-Animation)
+  - [Awesome Vision](#Awesome-Vision)
   - [Awesome Teleoperation](#Awesome-Teleoperation)
   - [Awesome Humanoid locomotion](#Awesome-locomotion)
   - [Awesome Touch](#Awesome-Touch)
@@ -38,7 +39,12 @@
 | <br> [**C·ASE: Learning Conditional Adversarial Skill Embeddings for Physics-based Characters**](https://frank-zy-dou.github.io/projects/CASE/index.html) <br> | SIGGRAPH ASIA 2023 | 2023-09 |  |  |
 | <br> [**Synthesizing Physical Character-Scene Interactions**](https://research.nvidia.com/publication/2023-08_synthesizing-physical-character-scene-interactions) <br> | SIGGRAPH 2023 | 2023-02 |  |  |
 | <br> [**MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting**](https://research.nvidia.com/labs/par/maskedmimic/) <br> | SIGGRAPH Asia 2024 | 2024-09 | [Code](https://github.com/NVlabs/ProtoMotions) |  |
+| <br> [**Learning Physically Simulated Tennis Skills from Broadcast Videos**](https://research.nvidia.com/labs/toronto-ai/vid2player3d/) <br> | SIGGRAPH 2023 | 2023 | [Code](https://github.com/nv-tlabs/vid2player3d) |  |
 
+## Awesome Vision
+|  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**HybrIK: Hybrid Analytical-Neural Inverse Kinematics for Body Mesh Recovery**](https://github.com/jeffffffli/HybrIK) <br> | CVPR 2021 | 2021 | [Code](https://github.com/jeffffffli/HybrIK)  |  |
 
 ## Awesome Teleoperation
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
