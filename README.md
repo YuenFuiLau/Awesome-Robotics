@@ -64,8 +64,8 @@
 | <br> [**Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer**](https://arxiv.org/pdf/2404.05695) <br> | arXiv | 2024-05-18 | [Code](https://github.com/roboterax/humanoid-gym) |  |
 | <br> [**Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing**](https://lecar-lab.github.io/dial-mpc/) <br> | arXiv | 2024-05-18 | [Code](https://github.com/LeCAR-Lab/dial-mpc) |  |
 | <br> [**Expressive Whole-Body Control for Humanoid Robots**](https://expressive-humanoid.github.io/) <br> | RSS | 2024-03-06 | [Code](https://github.com/chengxuxin/expressive-humanoid/tree/main) |  |
-| <br> [**Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models**](https://metamotivo.metademolab.com/) <br> |  | 2024-12-12 | [Code](https://github.com/facebookresearch/metamotivo) |  |
-| <br> [**ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills**](https://agile.human2humanoid.com/) <br> |  | 2025-02 | [Code](https://github.com/LeCAR-Lab/ASAP) |  |
+| <br> [**Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models**](https://metamotivo.metademolab.com/) <br> | arXiv  | 2024-12-12 | [Code](https://github.com/facebookresearch/metamotivo) |  |
+| <br> [**ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills**](https://agile.human2humanoid.com/) <br> | arXiv | 2025-02 | [Code](https://github.com/LeCAR-Lab/ASAP) |  |
 
 
 ## Awesome Touch
