@@ -23,6 +23,7 @@
 ## Awesome Robot Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation**](https://cogact.github.io/) <br> | arXiv  | 2024-11 | [Code](https://github.com/microsoft/CogACT/tree/main) |  |
 | <br> [**Visual Whole-Body Control for Legged Loco-Manipulation**](https://wholebody-b1.github.io/) <br> | CoRL | 2024-11-02 | [Code](https://github.com/Ericonaldo/visual_wholebody)  |  |
 | <br> [**OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics**](https://ok-robot.github.io/) <br> | CoRL | 2024-02-29 | [Code](https://github.com/ok-robot/ok-robot)  |  |
 | <br> [**OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation**](https://ut-austin-rpl.github.io/OKAMI/) <br> | CoRL 2024 | 2024-09 |  |  |
@@ -49,13 +50,13 @@
 ## Awesome Teleoperation
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**IRIS: An Immersive Robot Interaction System**](https://arxiv.org/pdf/2502.03297) <br> | arXiv | 2025-02 |  |  |
 | <br> [**Teleoperation of Humanoid Robots: A Survey**](https://arxiv.org/pdf/2301.04317) <br> | arXiv | 2023-01-11 | [Github.io](https://humanoid-teleoperation.github.io/)  |  |
 | <br> [**Interactive Hand Pose Estimation using a Stretch-Sensing Soft Glove**](https://dl.acm.org/doi/pdf/10.1145/3306346.3322957) <br> | ACM Trans | 2019-07-12 |   |  |
 | <br> [**Open-TeleVision: Teleoperation with Immersive Active Visual Feedback**](https://robot-tv.github.io/) <br> | CoRL | 2019-07-12 | [Code](https://github.com/OpenTeleVision/TeleVision)  |  |
 | <br> [**AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation System**](https://yzqin.github.io/anyteleop/) <br> | RSS | 2024-05-16 | [Code](https://github.com/dexsuite/dex-retargeting)  |  |
 | <br> [**OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning**](https://omni.human2humanoid.com/) <br> | CoRL | 2024-01-13 | [Data](https://cmu.app.box.com/s/kmayzq5ax2rxvwn97s0hzz0aq5vws9io)  |  |
 | <br> [**Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation**](https://human2humanoid.com/resources/H2O_paper.pdf) <br> | IROS | 2024-01-13 | [Github.io](https://human2humanoid.com/)  |  |
-| <br> [**HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots**](https://hover-versatile-humanoid.github.io/) <br> | arXiv | 2024-06-13 |  |  |
 
 ## Awesome Locomotion
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
@@ -66,7 +67,7 @@
 | <br> [**Expressive Whole-Body Control for Humanoid Robots**](https://expressive-humanoid.github.io/) <br> | RSS | 2024-03-06 | [Code](https://github.com/chengxuxin/expressive-humanoid/tree/main) |  |
 | <br> [**Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models**](https://metamotivo.metademolab.com/) <br> | arXiv  | 2024-12-12 | [Code](https://github.com/facebookresearch/metamotivo) |  |
 | <br> [**ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills**](https://agile.human2humanoid.com/) <br> | arXiv | 2025-02 | [Code](https://github.com/LeCAR-Lab/ASAP) |  |
-
+| <br> [**HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots**](https://hover-versatile-humanoid.github.io/) <br> | arXiv | 2024-06-13 |  |  |
 
 ## Awesome Touch
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
