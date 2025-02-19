@@ -23,6 +23,7 @@
 ## Awesome Robot Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**Human-Object Interaction from Human-Level Instructions**](https://hoifhli.github.io/) <br> | arVix  | 2024 |  |  |
 | <br> [**CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation**](https://cogact.github.io/) <br> | arXiv  | 2024-11 | [Code](https://github.com/microsoft/CogACT/tree/main) |  |
 | <br> [**Visual Whole-Body Control for Legged Loco-Manipulation**](https://wholebody-b1.github.io/) <br> | CoRL | 2024-11-02 | [Code](https://github.com/Ericonaldo/visual_wholebody)  |  |
 | <br> [**OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics**](https://ok-robot.github.io/) <br> | CoRL | 2024-02-29 | [Code](https://github.com/ok-robot/ok-robot)  |  |
