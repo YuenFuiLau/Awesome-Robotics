@@ -83,6 +83,8 @@
 | <br> [**HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation**](https://humanoid-bench.github.io/) <br> | arXiv | 2024-06 | [Code](https://github.com/carlosferrazza/humanoid-bench)  |  |
 | <br> [**ParaHome: Parameterizing Everyday Home Activities Towards 3D Generative Modeling of Human-Object Interactions**](https://jlogkim.github.io/parahome/) <br> | arVix  | 2025 | [Code](https://github.com/snuvclab/ParaHome)  |  |
 | <br> [**Object motion guided human motion synthesis**](https://lijiaman.github.io/projects/omomo/) <br> | SIGGRAPH Asia | 2023 | [Code](https://github.com/lijiaman/omomo_release)  |  |
+| <br> [**3D-FUTURE-ToolBox**](https://arxiv.org/pdf/1906.05797) <br> |  | 2020 | [Code](https://github.com/3D-FRONT-FUTURE/3D-FUTURE-ToolBox)  |  |
+| <br> [**Replica Dataset**](https://arxiv.org/pdf/1906.05797) <br> | arVix | 2019 | [Code](https://github.com/facebookresearch/Replica-Dataset)  |  |
 
 ---
 # Awesome Reference Source
