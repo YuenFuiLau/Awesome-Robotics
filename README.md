@@ -5,6 +5,7 @@
 
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Papers](#awesome-papers)
+- - [Awesome Suvey](#Awesome-Suvey)
   - [Awesome Robot Learning](#Awesome-Robot-Learning)
   - [Awesome Animation](#Awesome-Animation)
   - [Awesome Vision](#Awesome-Vision)
@@ -19,6 +20,11 @@
 ---
 
 # Awesome Papers
+
+## Awesome Suvey
+|  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning**](https://arxiv.org/abs/2501.02116) <br> | arVix  | 2025-01 |  |  |
 
 ## Awesome Robot Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
