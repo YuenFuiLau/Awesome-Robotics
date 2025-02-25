@@ -104,3 +104,4 @@
 | Name | Link | 
 |:-----|:-----:|
 |<be> [**Spinning Up in Deep RL (OpenAI)**](https://spinningup.openai.com/en/latest/) <br> | [Github](https://github.com/openai/spinningup/tree/master) |
+|<be> [**mink**](https://github.com/kevinzakka/mink/) <br> | [Github](https://github.com/kevinzakka/mink/) |
