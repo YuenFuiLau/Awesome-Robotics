@@ -7,7 +7,7 @@
 - [Awesome Papers](#awesome-papers)
 - - [Awesome Suvey](#Awesome-Suvey)
   - [Awesome Robot Learning](#Awesome-Robot-Learning)
-  - [Awesome Animation](#Awesome-Animation)
+  - [Awesome Imitation Learning](#Awesome-Imitation-Learning)
   - [Awesome Vision](#Awesome-Vision)
   - [Awesome Teleoperation](#Awesome-Teleoperation)
   - [Awesome Humanoid locomotion](#Awesome-locomotion)
@@ -39,7 +39,7 @@
 | <br> [**PhysHOI: Physics-Based Imitation of Dynamic Human-Object Interaction**](https://wyhuai.github.io/physhoi-page/) <br> | arXiv  | 2024-10 | [Code](https://github.com/wyhuai/PhysHOI/tree/main) |  |
 | <br> [**SkillMimic: Learning Reusable Basketball Skills from Demonstrations**](https://ingrid789.github.io/SkillMimic/) <br> | CVPR  | 2024-08 | [Code](https://github.com/wyhuai/SkillMimic) |  |
 
-## Awesome Animation
+## Awesome Imitation Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills**](https://xbpeng.github.io/projects/DeepMimic/index.html) <br> | ACM SIGGRAPH 2018 | 2024-05-22 | [Code](https://github.com/xbpeng/DeepMimic/tree/master)  |  |
