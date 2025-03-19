@@ -29,6 +29,7 @@
 ## Awesome Robot Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**π0: A Vision-Language-Action Flow Model for General Robot Control**](https://www.physicalintelligence.company/blog/pi0) <br> | arVix  | 2024 | [Code](https://github.com/allenzren/open-pi-zero) |  |
 | <br> [**INTERMIMIC: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions**](https://arxiv.org/pdf/2502.20390) <br> | arVix  | 2025 | [Code](https://www.google.com.hk/) |  |
 | <br> [**Controllable Human-Object Interaction Synthesis**](https://lijiaman.github.io/projects/chois/) <br> | ECCV  | 2024 | [Code](https://github.com/lijiaman/chois_release) |  |
 | <br> [**Human-Object Interaction from Human-Level Instructions**](https://hoifhli.github.io/) <br> | arVix  | 2024-12 |  |  |
