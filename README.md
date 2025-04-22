@@ -43,6 +43,7 @@
 | <br> [**CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics**](https://gao-jiawei.com/Research/CooHOI/) <br> | NeurIPS 2024 | 2024-10 | [Code](https://gao-jiawei.com/Research/CooHOI/) |  |
 | <br> [**PhysHOI: Physics-Based Imitation of Dynamic Human-Object Interaction**](https://wyhuai.github.io/physhoi-page/) <br> | arXiv  | 2024-10 | [Code](https://github.com/wyhuai/PhysHOI/tree/main) |  |
 | <br> [**SkillMimic: Learning Reusable Basketball Skills from Demonstrations**](https://ingrid789.github.io/SkillMimic/) <br> | CVPR  | 2024-08 | [Code](https://github.com/wyhuai/SkillMimic) |  |
+| <br> [**Humanoid Policy ~ Human Policy**](https://human-as-robot.github.io/) <br> | arVix  | 2025| [Code](https://github.com/RogerQi/human-policy) |  |
 
 ## Awesome Imitation Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
