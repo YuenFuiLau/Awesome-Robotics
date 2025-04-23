@@ -33,7 +33,7 @@
 | <br> [**TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization**](https://liangpan99.github.io/TokenHSI/) <br> | CVPR  | 2025 | [Code](https://github.com/liangpan99/TokenHSI) |  |
 | <br> [**AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems**](https://agibot-world.com/) <br> | arVix  | 2025 | [Code](https://github.com/OpenDriveLab/AgiBot-World) |  |
 | <br> [**π0: A Vision-Language-Action Flow Model for General Robot Control**](https://www.physicalintelligence.company/blog/pi0) <br> | arVix  | 2024 | [Code](https://github.com/allenzren/open-pi-zero) |  |
-| <br> [**INTERMIMIC: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions**](https://arxiv.org/pdf/2502.20390) <br> | arVix  | 2025 | [Code](https://www.google.com.hk/) |  |
+| <br> [**INTERMIMIC: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions**](https://arxiv.org/pdf/2502.20390) <br> | arVix  | 2025 | [Code](https://github.com/Sirui-Xu/InterMimic) |  |
 | <br> [**Controllable Human-Object Interaction Synthesis**](https://lijiaman.github.io/projects/chois/) <br> | ECCV  | 2024 | [Code](https://github.com/lijiaman/chois_release) |  |
 | <br> [**Human-Object Interaction from Human-Level Instructions**](https://hoifhli.github.io/) <br> | arVix  | 2024-12 |  |  |
 | <br> [**CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation**](https://cogact.github.io/) <br> | arXiv  | 2024-11 | [Code](https://github.com/microsoft/CogACT/tree/main) |  |
