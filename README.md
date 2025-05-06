@@ -84,7 +84,7 @@
 | <br> [**Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing**](https://lecar-lab.github.io/dial-mpc/) <br> | arXiv | 2024-05-18 | [Code](https://github.com/LeCAR-Lab/dial-mpc) |  |
 | <br> [**Expressive Whole-Body Control for Humanoid Robots**](https://expressive-humanoid.github.io/) <br> | RSS | 2024-03-06 | [Code](https://github.com/chengxuxin/expressive-humanoid/tree/main) |  |
 | <br> [**Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models**](https://metamotivo.metademolab.com/) <br> | arXiv  | 2024-12-12 | [Code](https://github.com/facebookresearch/metamotivo) |  |
-| <br> [**ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills**](https://agile.human2humanoid.com/) <br> | arXiv | 2025-02 | [Code](https://github.com/LeCAR-Lab/ASAP) |  |
+| <br> [**ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills**](https://agile.human2humanoid.com/) <br> | RSS | 2025-02 | [Code](https://github.com/LeCAR-Lab/ASAP) |  |
 | <br> [**HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots**](https://hover-versatile-humanoid.github.io/) <br> | arXiv | 2024-06-13 |  |  |
 
 ## Awesome Touch
