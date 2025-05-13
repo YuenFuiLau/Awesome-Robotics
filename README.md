@@ -10,7 +10,7 @@
   - [Awesome Imitation Learning](#Awesome-Imitation-Learning)
   - [Awesome Vision](#Awesome-Vision)
   - [Awesome Teleoperation](#Awesome-Teleoperation)
-  - [Awesome Humanoid locomotion](#Awesome-locomotion)
+  - [Awesome Control](#Awesome-Control)
   - [Awesome Touch](#Awesome-Touch)
   - [Awesome Data](#Awesome-Data)
 
@@ -76,7 +76,7 @@
 | <br> [**OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning**](https://omni.human2humanoid.com/) <br> | CoRL | 2024-01-13 | [Data](https://cmu.app.box.com/s/kmayzq5ax2rxvwn97s0hzz0aq5vws9io)  |  |
 | <br> [**Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation**](https://human2humanoid.com/resources/H2O_paper.pdf) <br> | IROS | 2024-01-13 | [Github.io](https://human2humanoid.com/)  |  |
 
-## Awesome Locomotion
+## Awesome Control
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning**](https://www.roboticsproceedings.org/rss20/p058.pdf) <br> | RSS | 2024-07 |  |  |
@@ -86,6 +86,7 @@
 | <br> [**Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models**](https://metamotivo.metademolab.com/) <br> | arXiv  | 2024-12-12 | [Code](https://github.com/facebookresearch/metamotivo) |  |
 | <br> [**ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills**](https://agile.human2humanoid.com/) <br> | RSS | 2025-02 | [Code](https://github.com/LeCAR-Lab/ASAP) |  |
 | <br> [**HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots**](https://hover-versatile-humanoid.github.io/) <br> | ICRA | 2024-06-13 | [Code](https://github.com/NVlabs/HOVER/)   |  |
+| <br> [**Learning Getting-Up Policies for Real-World Humanoid Robots**](https://humanoid-getup.github.io/) <br> | RSS | 2025 |  | [Code](https://github.com/RunpeiDong/humanup) |
 
 ## Awesome Touch
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
