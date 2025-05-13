@@ -87,6 +87,7 @@
 | <br> [**ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills**](https://agile.human2humanoid.com/) <br> | RSS | 2025-02 | [Code](https://github.com/LeCAR-Lab/ASAP) |  |
 | <br> [**HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots**](https://hover-versatile-humanoid.github.io/) <br> | ICRA | 2024-06-13 | [Code](https://github.com/NVlabs/HOVER/)   |  |
 | <br> [**Learning Getting-Up Policies for Real-World Humanoid Robots**](https://humanoid-getup.github.io/) <br> | RSS | 2025 | [Code](https://github.com/RunpeiDong/humanup) | |
+| <br> [**Learning Humanoid Standing-up Control across Diverse Postures**](https://taohuang13.github.io/humanoid-standingup.github.io/) <br> | RSS | 2025 | [Code](https://github.com/OpenRobotLab/HoST) | |
 
 ## Awesome Touch
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
