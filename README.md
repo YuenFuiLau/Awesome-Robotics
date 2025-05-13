@@ -114,3 +114,4 @@
 |:-----|:-----:|
 |<be> [**Spinning Up in Deep RL (OpenAI)**](https://spinningup.openai.com/en/latest/) <br> | [Github](https://github.com/openai/spinningup/tree/master) |
 |<be> [**mink**](https://github.com/kevinzakka/mink/) <br> | [Github](https://github.com/kevinzakka/mink/) |
+| <br> [**Demonstrating Berkeley Humanoid Lite:An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot**](https://lite.berkeley-humanoid.org/) <br> | RSS | 2025 | [Code](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite)  |  |
