@@ -1,4 +1,4 @@
-# Awesome-Robotics
+# Awesome-Papers
 
 
 ---
@@ -94,15 +94,16 @@
 | <br> [**Learning Getting-Up Policies for Real-World Humanoid Robots**](https://humanoid-getup.github.io/) <br> | RSS | 2025 | [Code](https://github.com/RunpeiDong/humanup) | |
 | <br> [**Learning Humanoid Standing-up Control across Diverse Postures**](https://taohuang13.github.io/humanoid-standingup.github.io/) <br> | RSS | 2025 | [Code](https://github.com/OpenRobotLab/HoST) | |
 
-## Awesome Touch
-|  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| <br> [**Learning Visuotactile Skills with Two Multifingered Hands**](https://toruowo.github.io/hato/) <br> | arXiv | 2024-05-22 | [Code](https://github.com/ToruOwO/hato)  |  |
-
 ## Awesome Meta-Learning/Increamental Learniing/Continuous Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory**](https://openaccess.thecvf.com/content/CVPR2024/papers/Ye_Online_Task-Free_Continual_Generative_and_Discriminative_Learning_via_Dynamic_Cluster_CVPR_2024_paper.pdf) <br> | CVPR | 2025 | |  |
+
+## Awesome Generation
+|  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**One-step Diffusion with Distribution Matching Distillation**](https://tianweiy.github.io/dmd/) <br> | CVPR | 2024 | [Code](https://github.com/devrimcavusoglu/dmd)  |  |
+| <br> [**Improved Distribution Matching Distillation for Fast Image Synthesis**](https://tianweiy.github.io/dmd2/) <br> | NeurIPS | 2024 | [Code](https://github.com/tianweiy/DMD2)  |  |
 
 ## Awesome Data
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
