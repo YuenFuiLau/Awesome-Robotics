@@ -32,7 +32,6 @@
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy**](https://cccedric.github.io/conrft/) <br> | RSS  | 2025 | [Code](https://github.com/cccedric/conrft) |  |
-| <br> [**TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization**](https://liangpan99.github.io/TokenHSI/) <br> | CVPR  | 2025 | [Code](https://github.com/liangpan99/TokenHSI) |  |
 | <br> [**AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems**](https://agibot-world.com/) <br> | arVix  | 2025 | [Code](https://github.com/OpenDriveLab/AgiBot-World) |  |
 | <br> [**π0: A Vision-Language-Action Flow Model for General Robot Control**](https://www.physicalintelligence.company/blog/pi0) <br> | arVix  | 2024 | [Code](https://github.com/allenzren/open-pi-zero) |  |
 | <br> [**INTERMIMIC: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions**](https://arxiv.org/pdf/2502.20390) <br> | CVPR  | 2025 | [Code](https://github.com/Sirui-Xu/InterMimic) |  |
@@ -58,6 +57,7 @@
 | <br> [**PMP: Learning to Physically Interact with Environments using Part-wise Motion Priors**](https://github.com/jinseokbae/pmp) <br> | SIGGRAPH | 2023-05 |  |  |
 | <br> [**C·ASE: Learning Conditional Adversarial Skill Embeddings for Physics-based Characters**](https://frank-zy-dou.github.io/projects/CASE/index.html) <br> | SIGGRAPH ASIA 2023 | 2023-09 |  |  |
 | <br> [**Synthesizing Physical Character-Scene Interactions**](https://research.nvidia.com/publication/2023-08_synthesizing-physical-character-scene-interactions) <br> | SIGGRAPH 2023 | 2023-02 |  |  |
+| <br> [**TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization**](https://liangpan99.github.io/TokenHSI/) <br> | CVPR  | 2025 | [Code](https://github.com/liangpan99/TokenHSI) |  |
 | <br> [**MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting**](https://research.nvidia.com/labs/par/maskedmimic/) <br> | SIGGRAPH Asia 2024 | 2024-09 | [Code](https://github.com/NVlabs/ProtoMotions) |  |
 | <br> [**Learning Physically Simulated Tennis Skills from Broadcast Videos**](https://research.nvidia.com/labs/toronto-ai/vid2player3d/) <br> | SIGGRAPH | 2023 | [Code](https://github.com/nv-tlabs/vid2player3d) |  |
 | <br> [**Perpetual Humanoid Control for Real-time Simulated Avatars**](https://zhengyiluo.github.io/PHC/) <br> | ICCV  | 2023 | [Code](https://github.com/ZhengyiLuo/PHC) |  |
