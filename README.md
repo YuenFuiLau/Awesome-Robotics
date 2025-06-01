@@ -101,7 +101,7 @@
 ## Awesome Meta-Learning/Increamental Learniing/Continuous Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| <br> [**Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory**]https://openaccess.thecvf.com/content/CVPR2024/papers/Ye_Online_Task-Free_Continual_Generative_and_Discriminative_Learning_via_Dynamic_Cluster_CVPR_2024_paper.pdf) <br> | CVPR | 2025 | |  |
+| <br> [**Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory**](https://openaccess.thecvf.com/content/CVPR2024/papers/Ye_Online_Task-Free_Continual_Generative_and_Discriminative_Learning_via_Dynamic_Cluster_CVPR_2024_paper.pdf) <br> | CVPR | 2025 | |  |
 
 ## Awesome Data
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
