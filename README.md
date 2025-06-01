@@ -41,31 +41,32 @@
 | <br> [**CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation**](https://cogact.github.io/) <br> | arXiv  | 2024-11 | [Code](https://github.com/microsoft/CogACT/tree/main) |  |
 | <br> [**Visual Whole-Body Control for Legged Loco-Manipulation**](https://wholebody-b1.github.io/) <br> | CoRL | 2024-11-02 | [Code](https://github.com/Ericonaldo/visual_wholebody)  |  |
 | <br> [**OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics**](https://ok-robot.github.io/) <br> | CoRL | 2024-02-29 | [Code](https://github.com/ok-robot/ok-robot)  |  |
-| <br> [**OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation**](https://ut-austin-rpl.github.io/OKAMI/) <br> | CoRL 2024 | 2024-09 |  |  |
-| <br> [**CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics**](https://gao-jiawei.com/Research/CooHOI/) <br> | NeurIPS 2024 | 2024-10 | [Code](https://gao-jiawei.com/Research/CooHOI/) |  |
+| <br> [**OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation**](https://ut-austin-rpl.github.io/OKAMI/) <br> | CoRL | 2024-09 |  |  |
+| <br> [**CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics**](https://gao-jiawei.com/Research/CooHOI/) <br> | NeurIPS | 2024-10 | [Code](https://gao-jiawei.com/Research/CooHOI/) |  |
 | <br> [**ControlVAE: Model-Based Learning of Generative Controllers for Physics-Based Characters**](https://heyuanyao-pku.github.io/Control-VAE/) <br> | SIGGRAPH Asia  | 2022| [Code](https://github.com/heyuanYao-pku/Control-VAE) |  |
 | <br> [**PhysHOI: Physics-Based Imitation of Dynamic Human-Object Interaction**](https://wyhuai.github.io/physhoi-page/) <br> | arXiv  | 2024-10 | [Code](https://github.com/wyhuai/PhysHOI/tree/main) |  |
 | <br> [**SkillMimic: Learning Reusable Basketball Skills from Demonstrations**](https://ingrid789.github.io/SkillMimic/) <br> | CVPR  | 2024-08 | [Code](https://github.com/wyhuai/SkillMimic) |  |
 | <br> [**Humanoid Policy ~ Human Policy**](https://human-as-robot.github.io/) <br> | arVix  | 2025| [Code](https://github.com/RogerQi/human-policy) |  |
-| <br> [**DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies**](https://dexwild.github.io/) <br> | RSS  | 2025|  |  |
+| <br> [**DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies**](https://dexwild.github.io/) <br> | RSS | 2025|  |  |
 
 ## Awesome Imitation Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| <br> [**DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills**](https://xbpeng.github.io/projects/DeepMimic/index.html) <br> | ACM SIGGRAPH 2018 | 2024-05-22 | [Code](https://github.com/xbpeng/DeepMimic/tree/master)  |  |
-| <br> [**AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control**](https://xbpeng.github.io/projects/AMP/index.html) <br> | ACM SIGGRAPH 2021 | 2024-05-22 | [Code1](https://github.com/Alescontrela/AMP_for_hardware) [Code2](https://github.com/nv-tlabs/ASE/tree/main)   |  |
+| <br> [**DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills**](https://xbpeng.github.io/projects/DeepMimic/index.html) <br> | ACM SIGGRAPH | 2024-05-22 | [Code](https://github.com/xbpeng/DeepMimic/tree/master)  |  |
+| <br> [**AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control**](https://xbpeng.github.io/projects/AMP/index.html) <br> | ACM SIGGRAPH | 2024-05-22 | [Code1](https://github.com/Alescontrela/AMP_for_hardware) [Code2](https://github.com/nv-tlabs/ASE/tree/main)   |  |
 | <br> [**ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters**](https://xbpeng.github.io/projects/ASE/index.html) <br> | ACM SIGGRAPH 2022 | 2024-05-22 | [Code](https://github.com/nv-tlabs/ASE/tree/main)  |  |
-| <br> [**PMP: Learning to Physically Interact with Environments using Part-wise Motion Priors**](https://github.com/jinseokbae/pmp) <br> | SIGGRAPH 2023 | 2023-05 |  |  |
+| <br> [**PMP: Learning to Physically Interact with Environments using Part-wise Motion Priors**](https://github.com/jinseokbae/pmp) <br> | SIGGRAPH | 2023-05 |  |  |
 | <br> [**C·ASE: Learning Conditional Adversarial Skill Embeddings for Physics-based Characters**](https://frank-zy-dou.github.io/projects/CASE/index.html) <br> | SIGGRAPH ASIA 2023 | 2023-09 |  |  |
 | <br> [**Synthesizing Physical Character-Scene Interactions**](https://research.nvidia.com/publication/2023-08_synthesizing-physical-character-scene-interactions) <br> | SIGGRAPH 2023 | 2023-02 |  |  |
 | <br> [**MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting**](https://research.nvidia.com/labs/par/maskedmimic/) <br> | SIGGRAPH Asia 2024 | 2024-09 | [Code](https://github.com/NVlabs/ProtoMotions) |  |
-| <br> [**Learning Physically Simulated Tennis Skills from Broadcast Videos**](https://research.nvidia.com/labs/toronto-ai/vid2player3d/) <br> | SIGGRAPH 2023 | 2023 | [Code](https://github.com/nv-tlabs/vid2player3d) |  |
+| <br> [**Learning Physically Simulated Tennis Skills from Broadcast Videos**](https://research.nvidia.com/labs/toronto-ai/vid2player3d/) <br> | SIGGRAPH | 2023 | [Code](https://github.com/nv-tlabs/vid2player3d) |  |
 | <br> [**Perpetual Humanoid Control for Real-time Simulated Avatars**](https://zhengyiluo.github.io/PHC/) <br> | ICCV  | 2023 | [Code](https://github.com/ZhengyiLuo/PHC) |  |
 
 ## Awesome Vision
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| <br> [**HybrIK: Hybrid Analytical-Neural Inverse Kinematics for Body Mesh Recovery**](https://github.com/jeffffffli/HybrIK) <br> | CVPR 2021 | 2021 | [Code](https://github.com/jeffffffli/HybrIK)  |  |
+| <br> [**HybrIK: Hybrid Analytical-Neural Inverse Kinematics for Body Mesh Recovery**](https://github.com/jeffffffli/HybrIK) <br> | CVPR | 2021 | [Code](https://github.com/jeffffffli/HybrIK)  |  |
+| <br> [**Reconstructing In-the-Wild Open-Vocabulary Human-Object Interactions**](https://wenboran2002.github.io/3dhoi/) <br> | CVPR | 2025 | [Code](https://github.com/wenboran2002/open-3dhoi)  |  |
 
 ## Awesome Teleoperation
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
