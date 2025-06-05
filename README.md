@@ -27,6 +27,7 @@
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning**](https://arxiv.org/abs/2501.02116) <br> | arVix  | 2025-01 |  |  |
+| <br> [**A Survey of Meta-Reinforcement Learning**](https://arxiv.org/abs/2301.08028v3) <br> | arVix  | 2024 |  |  |
 
 ## Awesome Robot Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
