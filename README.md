@@ -49,6 +49,7 @@
 | <br> [**SkillMimic: Learning Reusable Basketball Skills from Demonstrations**](https://ingrid789.github.io/SkillMimic/) <br> | CVPR  | 2024-08 | [Code](https://github.com/wyhuai/SkillMimic) |  |
 | <br> [**Humanoid Policy ~ Human Policy**](https://human-as-robot.github.io/) <br> | arVix  | 2025| [Code](https://github.com/RogerQi/human-policy) |  |
 | <br> [**DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies**](https://dexwild.github.io/) <br> | RSS | 2025|  |  |
+| <br> [**Catch It! Learning to Catch in Flight with Mobile Dexterous Hands**](https://mobile-dex-catch.github.io/) <br> | ICRA | 2025 | [Code](https://github.com/hang0610/Catch_It) |  |
 
 ## Awesome Imitation Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
