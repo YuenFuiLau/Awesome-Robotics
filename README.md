@@ -69,6 +69,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**HybrIK: Hybrid Analytical-Neural Inverse Kinematics for Body Mesh Recovery**](https://github.com/jeffffffli/HybrIK) <br> | CVPR | 2021 | [Code](https://github.com/jeffffffli/HybrIK)  |  |
 | <br> [**Reconstructing In-the-Wild Open-Vocabulary Human-Object Interactions**](https://wenboran2002.github.io/3dhoi/) <br> | CVPR | 2025 | [Code](https://github.com/wenboran2002/open-3dhoi)  |  |
+| <br> [**Probabilistic Representations for Video Contrastive Learning**](https://arxiv.org/abs/2204.03946) <br> | CVPR  | 2022 | [Code](https://github.com/mkirchhof/Probabilistic_Contrastive_Learning) |  |
 
 ## Awesome Teleoperation
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
