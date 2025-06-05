@@ -28,6 +28,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning**](https://arxiv.org/abs/2501.02116) <br> | arVix  | 2025-01 |  |  |
 | <br> [**A Survey of Meta-Reinforcement Learning**](https://arxiv.org/abs/2301.08028v3) <br> | arVix  | 2024 |  |  |
+| <br> [**Teleoperation of Humanoid Robots: A Survey**](https://arxiv.org/pdf/2301.04317) <br> | arXiv | 2023-01-11 | [Github.io](https://humanoid-teleoperation.github.io/)  |  |
 
 ## Awesome Robot Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
@@ -74,7 +75,6 @@
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit**](https://homietele.github.io/) <br> | RSS | 2025 | [Github.io](https://github.com/OpenRobotLab/OpenHomie)  |  |
 | <br> [**IRIS: An Immersive Robot Interaction System**](https://arxiv.org/pdf/2502.03297) <br> | arXiv | 2025-02 |  |  |
-| <br> [**Teleoperation of Humanoid Robots: A Survey**](https://arxiv.org/pdf/2301.04317) <br> | arXiv | 2023-01-11 | [Github.io](https://humanoid-teleoperation.github.io/)  |  |
 | <br> [**Interactive Hand Pose Estimation using a Stretch-Sensing Soft Glove**](https://dl.acm.org/doi/pdf/10.1145/3306346.3322957) <br> | ACM Trans | 2019-07-12 |   |  |
 | <br> [**Open-TeleVision: Teleoperation with Immersive Active Visual Feedback**](https://robot-tv.github.io/) <br> | CoRL | 2019-07-12 | [Code](https://github.com/OpenTeleVision/TeleVision)  |  |
 | <br> [**AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation System**](https://yzqin.github.io/anyteleop/) <br> | RSS | 2024-05-16 | [Code](https://github.com/dexsuite/dex-retargeting)  |  |
@@ -94,6 +94,8 @@
 | <br> [**HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots**](https://hover-versatile-humanoid.github.io/) <br> | ICRA | 2024-06-13 | [Code](https://github.com/NVlabs/HOVER/)   |  |
 | <br> [**Learning Getting-Up Policies for Real-World Humanoid Robots**](https://humanoid-getup.github.io/) <br> | RSS | 2025 | [Code](https://github.com/RunpeiDong/humanup) | |
 | <br> [**Learning Humanoid Standing-up Control across Diverse Postures**](https://taohuang13.github.io/humanoid-standingup.github.io/) <br> | RSS | 2025 | [Code](https://github.com/OpenRobotLab/HoST) | |
+| <br> [**Learning by cheating**](https://github.com/dotchen/LearningByCheating) <br> | CoRL  | 2019 | [Code](https://github.com/dotchen/LearningByCheating)  |  |
+| <br> [**Learning Quadrupedal Locomotion over Challenging Terrain**](https://leggedrobotics.github.io/rl-blindloco/) <br> | Sci. Robotics  | 2020 | |  |
 
 ## Awesome Meta-Learning/Increamental Learniing/Continuous Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
