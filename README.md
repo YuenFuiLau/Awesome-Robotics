@@ -120,6 +120,8 @@
 | <br> [**Object motion guided human motion synthesis**](https://lijiaman.github.io/projects/omomo/) <br> | SIGGRAPH Asia | 2023 | [Code](https://github.com/lijiaman/omomo_release)  |  |
 | <br> [**3D-FUTURE-ToolBox**](https://arxiv.org/pdf/1906.05797) <br> |  | 2020 | [Code](https://github.com/3D-FRONT-FUTURE/3D-FUTURE-ToolBox)  |  |
 | <br> [**Replica Dataset**](https://arxiv.org/pdf/1906.05797) <br> | arVix | 2019 | [Code](https://github.com/facebookresearch/Replica-Dataset)  |  |
+| <br> [**RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning**](https://roboverseorg.github.io/) <br> | RSS | 2025 | [Code](https://github.com/RoboVerseOrg/RoboVerse)  |  |
+| <br> [**SMPLOlympics: Sports Environments for Physically Simulated Humanoids**](https://smplolympics.github.io/SMPLOlympics-Site/) <br> | arXiv | 2024 | [Code](https://github.com/SMPLOlympics/SMPLOlympics)  |  |
 
 ---
 # Awesome Reference Source
