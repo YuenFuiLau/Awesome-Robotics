@@ -33,6 +33,7 @@
 ## Awesome Robot Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**VideoMimic Visual imitation enables contextual humanoid control**](https://www.videomimic.net/) <br> | arXiv  | 2025 | [Code](https://github.com/hongsukchoi/VideoMimic) |  |
 | <br> [**ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy**](https://cccedric.github.io/conrft/) <br> | RSS  | 2025 | [Code](https://github.com/cccedric/conrft) |  |
 | <br> [**AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems**](https://agibot-world.com/) <br> | arVix  | 2025 | [Code](https://github.com/OpenDriveLab/AgiBot-World) |  |
 | <br> [**π0: A Vision-Language-Action Flow Model for General Robot Control**](https://www.physicalintelligence.company/blog/pi0) <br> | arVix  | 2024 | [Code](https://github.com/allenzren/open-pi-zero) |  |
