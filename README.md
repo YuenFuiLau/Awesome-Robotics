@@ -34,7 +34,6 @@
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**VideoMimic Visual imitation enables contextual humanoid control**](https://www.videomimic.net/) <br> | arXiv  | 2025 | [Code](https://github.com/hongsukchoi/VideoMimic) |  |
-| <br> [**ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy**](https://cccedric.github.io/conrft/) <br> | RSS  | 2025 | [Code](https://github.com/cccedric/conrft) |  |
 | <br> [**AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems**](https://agibot-world.com/) <br> | arVix  | 2025 | [Code](https://github.com/OpenDriveLab/AgiBot-World) |  |
 | <br> [**π0: A Vision-Language-Action Flow Model for General Robot Control**](https://www.physicalintelligence.company/blog/pi0) <br> | arVix  | 2024 | [Code](https://github.com/allenzren/open-pi-zero) |  |
 | <br> [**INTERMIMIC: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions**](https://arxiv.org/pdf/2502.20390) <br> | CVPR  | 2025 | [Code](https://github.com/Sirui-Xu/InterMimic) |  |
@@ -107,6 +106,7 @@
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory**](https://openaccess.thecvf.com/content/CVPR2024/papers/Ye_Online_Task-Free_Continual_Generative_and_Discriminative_Learning_via_Dynamic_Cluster_CVPR_2024_paper.pdf) <br> | CVPR | 2025 | |  |
+| <br> [**ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy**](https://cccedric.github.io/conrft/) <br> | RSS  | 2025 | [Code](https://github.com/cccedric/conrft) |  |
 
 ## Awesome Generation
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
