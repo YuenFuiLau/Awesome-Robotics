@@ -125,6 +125,7 @@
 | <br> [**Replica Dataset**](https://arxiv.org/pdf/1906.05797) <br> | arVix | 2019 | [Code](https://github.com/facebookresearch/Replica-Dataset)  |  |
 | <br> [**RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning**](https://roboverseorg.github.io/) <br> | RSS | 2025 | [Code](https://github.com/RoboVerseOrg/RoboVerse)  |  |
 | <br> [**SMPLOlympics: Sports Environments for Physically Simulated Humanoids**](https://smplolympics.github.io/SMPLOlympics-Site/) <br> | arXiv | 2024 | [Code](https://github.com/SMPLOlympics/SMPLOlympics)  |  |
+| <br> [**Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware**](https://real2render2real.com/) <br> | arXiv | 2025 | [Code](https://github.com/uynitsuj/real2render2real)  |  |
 
 ---
 # Awesome Reference Source
