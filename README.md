@@ -74,6 +74,7 @@
 | <br> [**Reconstructing In-the-Wild Open-Vocabulary Human-Object Interactions**](https://wenboran2002.github.io/3dhoi/) <br> | CVPR | 2025 | [Code](https://github.com/wenboran2002/open-3dhoi)  |  |
 | <br> [**Probabilistic Representations for Video Contrastive Learning**](https://arxiv.org/abs/2204.03946) <br> | CVPR  | 2022 | [Code](https://github.com/mkirchhof/Probabilistic_Contrastive_Learning) |  |
 | <br> [**TRAM: Global Trajectory and Motion of 3D Humans from in-the-wild Videos**](https://yufu-wang.github.io/tram4d/) <br> | ECCV  | 2024 | [Code](https://github.com/yufu-wang/tram) |  |
+| <br> [**Capturing and Inferring Dense Full-Body Human-Scene Contact**](https://github.com/paulchhuang/bstro) <br> | CVPR  | 2022 | [Code](https://github.com/paulchhuang/bstro) |  |
 
 ## Awesome Teleoperation
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
