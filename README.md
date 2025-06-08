@@ -111,6 +111,7 @@
 ## Awesome Generation
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation**](https://awfuact.github.io/zerohsi/) <br> | arXiv | 2025 |  |  |
 | <br> [**One-step Diffusion with Distribution Matching Distillation**](https://tianweiy.github.io/dmd/) <br> | CVPR | 2024 | [Code](https://github.com/devrimcavusoglu/dmd)  |  |
 | <br> [**Improved Distribution Matching Distillation for Fast Image Synthesis**](https://tianweiy.github.io/dmd2/) <br> | NeurIPS | 2024 | [Code](https://github.com/tianweiy/DMD2)  |  |
 | <br> [**SCORE-BASED GENERATIVE MODELING THROUGH STOCHASTIC DIFFERENTIAL EQUATIONS**](https://arxiv.org/pdf/2011.13456) <br> | ICLR | 2021 | [Code](https://github.com/yang-song/score_sde)  |  |
