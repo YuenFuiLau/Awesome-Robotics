@@ -50,10 +50,12 @@
 | <br> [**Humanoid Policy ~ Human Policy**](https://human-as-robot.github.io/) <br> | arVix  | 2025| [Code](https://github.com/RogerQi/human-policy) |  |
 | <br> [**DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies**](https://dexwild.github.io/) <br> | RSS | 2025|  |  |
 | <br> [**Catch It! Learning to Catch in Flight with Mobile Dexterous Hands**](https://mobile-dex-catch.github.io/) <br> | ICRA | 2025 | [Code](https://github.com/hang0610/Catch_It) |  |
+| <br> [**Genie Centurion: Accelerating Scalable Real-World Robot Training with Human Rewind-and-Refine Guidance**](https://arxiv.org/pdf/2505.18793) <br> | arXiv  | 2025 | |  |
 
 ## Awesome Imitation Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**GROVE: A Generalized Reward for Learning Open-Vocabulary Physical Skill**](https://jiemingcui.github.io/grove/) <br> | CVPR  | 2025 | [Code](https://github.com/jiemingcui/GROVE-pytorch) |  |
 | <br> [**DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills**](https://xbpeng.github.io/projects/DeepMimic/index.html) <br> | ACM SIGGRAPH | 2024-05-22 | [Code](https://github.com/xbpeng/DeepMimic/tree/master)  |  |
 | <br> [**AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control**](https://xbpeng.github.io/projects/AMP/index.html) <br> | ACM SIGGRAPH | 2024-05-22 | [Code1](https://github.com/Alescontrela/AMP_for_hardware) [Code2](https://github.com/nv-tlabs/ASE/tree/main)   |  |
 | <br> [**ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters**](https://xbpeng.github.io/projects/ASE/index.html) <br> | ACM SIGGRAPH 2022 | 2024-05-22 | [Code](https://github.com/nv-tlabs/ASE/tree/main)  |  |
